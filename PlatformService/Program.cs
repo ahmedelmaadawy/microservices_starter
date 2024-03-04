@@ -16,6 +16,7 @@ namespace PlatformService
             builder.Services.AddDbContext<AppDbContext>(opt =>
             opt.UseInMemoryDatabase("InMem"));
 
+            builder.Services.AddScoped<IPlatformRepository, PlatformRepository>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -37,6 +38,8 @@ namespace PlatformService
 
 
             app.MapControllers();
+
+            PrepareDb.PropPopulation(app);
 
             app.Run();
         }
