@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ccZUkSjVuMqE+8+KptE4A+10YmiadVF02ScK57c3G/dpGZ67cX6Cgrbdp+VDuh2kNkS4NjkA7RjD7afkqIVT9g==",
+  "dgSpecHash": "yBN/pZwaAqqQR1Dqau+i7/vHVjyuqyR03BIOCWielidB+javvDQZMp7pL5/qwsgvA0yVslX/zzF/TfoW2jInyQ==",
   "success": true,
   "projectFilePath": "E:\\Coding\\CSharp\\Microservice-starter\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
